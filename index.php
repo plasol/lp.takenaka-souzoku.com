@@ -15,3 +15,4 @@ define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/form/wp-blog-header.php' );
+/** 西田記入
