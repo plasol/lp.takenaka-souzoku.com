@@ -1,4 +1,4 @@
-
+<?php get_header(); ?>
 <section class="mv pc">
 	<h1><img src="common/img/mvtxt01.png" alt="相続手続きご相談"></h1>
     <p><img src="common/img/mxtxt02.png" alt="吹田駅徒歩１分"></p>
@@ -321,3 +321,4 @@
         <a href="#"><img src="common/img/cv.png" alt="まずはお気軽にご相談ください"></a>
     </div>
 </section>
+<?php get_footer(); ?>
